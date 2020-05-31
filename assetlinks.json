@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "xyz.appmaker.rhtogu",
-      "sha256_cert_fingerprints": ["40:64:CD:43:C3:C5:F2:C2:E6:78:AB:79:71:7C:E1:FE:64:68:ED:D1:AD:ED:46:51:EF:2E:CA:63:52:79:5C:4C"]
+      "sha256_cert_fingerprints": ["40:64:CD:43:C3:C5:F2:C2:E6:78:AB:79:71:7C:E1:FE:64:68:ED:D1:AD:ED:46:51:EF:2E:CA:63:52:79:5C:4C","49:65:C0:4C:44:78:8C:3F:1F:20:4F:33:B8:7F:2B:B7:F4:A9:DC:D3:6C:7C:D1:66:F6:DD:43:94:7C:F1:B7:2C"]
     }
   }
 ]
