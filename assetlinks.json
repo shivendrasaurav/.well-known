@@ -1,5 +1,5 @@
 [{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target" : { "namespace": "android_app", "package_name": "com.herokuapp.hisabkitabapp.twa",
-                   "sha256_cert_fingerprints": ["F3:07:67:E5:0E:E9:DD:50:73:83:3B:68:6B:28:C1:26:2C:CE:2C:74:BA:11:B2:F9:E0:F8:10:97:B6:B6:A2:FF"] }
+                   "sha256_cert_fingerprints": ["C6:AF:F0:BF:7F:45:82:B0:FB:0D:B7:50:B3:ED:A4:59:DC:BB:F4:51:84:E0:D8:B8:D6:E5:60:1D:51:D2:51:71"] }
     }]
